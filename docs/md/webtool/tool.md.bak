@@ -1,0 +1,70 @@
+# 开发工具箱  :tada:
+
+::: tip 提示
+本文主要主要总结平时用到的一些工具 @dg
+:::
+
+
+
+---
+
+home: true
+heroImage: /images/home/home.gif
+tagline : Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&CD, Linux, DevOps, 分布式, 中间件, 开发工具,Git,IDE, 源码阅读，读书笔记, 开源项目.
+actionText: Quick Start →
+actionLink: /guide/
+features:
+- title: 夯实基础
+  details: 日拱一卒,可以至千里。
+- title: 形成体系
+  details: 构筑自己的知识体系
+- title: 快速开发
+  details: 按照知识体系快速开发
+---
+
+
+
+
+
+[[toc]]
+
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  blah |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
+
+
+
+
+
+
+二级引用如下：
+
+>> ### 二级引用示例
+>>
+>> 读一本好书，就是在和高尚的人谈话。 **——歌德**
+>>
+>> [Markdown Nice最全功能介绍](https://mp.weixin.qq.com/s/lM808MxUu6tp8zU8SBu3sg)
+>> 
+>> ![这里写图片描述](https://files.mdnice.com/pic/cd3ca20c-896f-4cfc-9bdd-c4c58e69ba26.jpg)
+
+
+## 常用搜索
+## 代码托管
+## 技术社区
+## 工具合集
+## 基础教程
+## 文档工具
+## 后端开发
+## 前端开发
+## 动态图表
+## 图片图标
+## CSS样式
+## 其它资源
+## 友链交换
+## 推荐资源
+
+
+<NoRightAd/>
